@@ -11,7 +11,7 @@ d’affichage diffère d’un objet 3D à l’autre.
 
 Voici le code des 3 classes:
 
-```
+```java
 public class Cube {
     public void manipulation() {
         initialisation() ;
