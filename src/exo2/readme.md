@@ -15,4 +15,4 @@ comme une espèce d'hiérarchie?
 
 ### Donnez le diagramme de classes adapté à ce cas.
 
-GoodNotes
+https://web.goodnotes.com/s/PguFoCUnzYyNEzKlqx3qsF
