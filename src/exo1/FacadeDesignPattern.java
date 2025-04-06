@@ -1,7 +1,6 @@
 package exo1;
 
-// Quel Design Pattern appliqueriez-vous ?
-// Facade - rendre un systeme complexe simple d'utilisation
+
 
 import java.util.ArrayList;
 
