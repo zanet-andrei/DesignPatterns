@@ -15,4 +15,4 @@ comme une espèce d'hiérarchie?
 
 ### Donnez le diagramme de classes adapté à ce cas.
 
-![CompositePattern.jpeg](CompositePattern.jpeg)
+![StrategyPattern.jpg](StrategyPattern.jpg)
