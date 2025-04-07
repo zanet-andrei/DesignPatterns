@@ -11,4 +11,4 @@ Le Composite Pattern permet d'organiser des objets en arborescence
 
 ### Donnez le diagramme de classes adapté à ce cas.
 
-GoodNotes
+![CompositePattern.jpeg](CompositePattern.jpeg)
