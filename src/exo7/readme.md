@@ -82,6 +82,6 @@ Template Method Pattern. Le même code est appliqué à toutes les classes à qu
 
 ### Donnez le diagramme de classe de ce Design pattern appliqué au cas traité.
 
-https://web.goodnotes.com/s/PguFoCUnzYyNEzKlqx3qsF
+![TemplateMethodPattern.jpeg](TemplateMethodPattern.jpeg)
 
 ### Corrigez le code des classes Java en appliquant ce Design Pattern.
