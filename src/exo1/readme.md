@@ -18,6 +18,10 @@ suivante :
 9. Lancer le générateur électrique
 10. Lancer la procédure de récupération
 
+Soit le diagramme de classes.
+
+![img.png](img.png)
+
 ### Quel Design Pattern appliqueriez-vous ?
 -  Facade - rendre un systeme complexe simple d'utilisation
 
