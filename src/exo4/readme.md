@@ -9,6 +9,8 @@ Les formateurs disposent d’une large bibliothèque de questions pour QCM.
 Chaque question propose 4 choix de réponse, une seule réponse étant correcte.
 Soit la classe QuestionQCM.
 
+![img.png](img.png)
+
 Les formateurs souhaitent donc disposer d’un moyen aisé de créer des nouvelles
 questions à partir de questions existantes, qu’ils reprendront telles quelles ou
 qu’ils pourront ensuite modifier légèrement s’ils le souhaitent.
