@@ -5,6 +5,8 @@ l’entreprise de pouvoir retrouver le plus précisément possible la liste des 
 déjà effectuées pour chaque job.
 Soit la classe Job.
 
+![img.png](img.png)
+
 
 L’entreprise souhaite lancer à intervalles réguliers une procédure de sauvegarde
 des tâches déjà effectuées sur chaque job en vue de pouvoir restaurer une telle
