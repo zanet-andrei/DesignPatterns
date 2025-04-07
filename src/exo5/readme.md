@@ -13,4 +13,4 @@ Le programme change de fonctionnement selon les etats de la machine. State Patte
 
 ### Compléter le diagramme ci-dessus en appliquant le Design Pattern choisi.
 
-https://web.goodnotes.com/s/PguFoCUnzYyNEzKlqx3qsF
+![StatePattern.jpeg](StatePattern.jpeg)
