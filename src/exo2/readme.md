@@ -7,12 +7,6 @@ correspondants.
 
 ### Quel Design Pattern vous aiderait à permettre les accès aux services auxquels ont droit les clients ?
 
-Les mêmes services peuvent être partagés entre plusieurs abonnements. Il faut permettre à chaque abonnement de faire varier
-ses services indépendamment des autres abonnements. Strategy Pattern?
-
-Soit ça, soit le Composite Pattern, car un abonnement peut être composé de plusieurs services et on peut voir chaque abonnement
-comme une espèce d'hiérarchie?
+PlayerRole pattern
 
 ### Donnez le diagramme de classes adapté à ce cas.
-
-![StrategyPattern.jpg](StrategyPattern.jpg)
