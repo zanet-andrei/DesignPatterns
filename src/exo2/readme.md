@@ -10,3 +10,5 @@ correspondants.
 PlayerRole pattern
 
 ### Donnez le diagramme de classes adapté à ce cas.
+
+![PlayerRole Pattern.jpeg](PlayerRole Pattern.jpeg)
