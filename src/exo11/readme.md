@@ -27,3 +27,6 @@ important de lignes de code.
 
 Adapter Pattern afin de rendre les deux interfaces compatibles.
 
+### Complétez le diagramme de classes en appliquant ce Design Pattern.
+
+![AdapterPattern.png](AdapterPattern.png)
