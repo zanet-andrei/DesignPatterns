@@ -11,3 +11,5 @@ Soit la classe ModèleVéhicule.
 Decorator Pattern afin d'ajouter des options supplementaires au prix initial
 
 ### Complétez le diagramme de classe en appliquant ce Design Pattern.
+
+![DecoratorPattern.png](DecoratorPattern.png)
