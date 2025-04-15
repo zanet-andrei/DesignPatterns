@@ -1,8 +1,8 @@
 package exo10;
 
-public class VehiculeAvecOption3 extends Decorateur {
+public class Option2 extends Decorateur {
 
-    public VehiculeAvecOption3(ModeleVehicule modeleDecore) {
+    public Option2(ModeleVehicule modeleDecore) {
         super(modeleDecore);
     }
 
@@ -13,6 +13,6 @@ public class VehiculeAvecOption3 extends Decorateur {
 
     @Override
     public double cout() {
-        return getModeleDecore().cout() + 3;
+        return getModeleDecore().cout() + 2;
     }
 }

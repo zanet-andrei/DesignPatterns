@@ -1,4 +1,4 @@
-### Exercice 3
+(### Exercice 3
 Les fichiers sont rassemblés en dossier.
 Tout dossier peut contenir 0, un ou plusieurs fichier(s) et 0, un ou plusieurs
 dossier(s).

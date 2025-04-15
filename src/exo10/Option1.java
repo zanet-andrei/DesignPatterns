@@ -1,8 +1,8 @@
 package exo10;
 
-public class VehiculeAvecOption1 extends Decorateur {
+public class Option1 extends Decorateur {
 
-    public VehiculeAvecOption1(ModeleVehicule modeleDecore) {
+    public Option1(ModeleVehicule modeleDecore) {
         super(modeleDecore);
     }
 
