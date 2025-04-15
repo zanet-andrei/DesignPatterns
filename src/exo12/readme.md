@@ -4,7 +4,7 @@ Un maraîcher sème et récolte des pommes de terre, des choux, des carottes, de
 salades et des poireaux.
 Soit la hiérarchie de classes suivante :
 
-![img.png](img.png)
+![img.png](FactoryPattern.png)
 
 Voici le code de la classe Maraîcher (MarketGardener) qu’un étudiant en
 informatique a tenté d’écrire et qui contient les méthodes semer (sow) et
@@ -45,6 +45,5 @@ Le design pattern le plus approprié est le Factory Pattern pour encapsuler l'in
 
 ### Créez le diagramme de classe correspondant à ce Design Pattern appliqué au cas traité.
 
-![FactoryPattern.jpeg](FactoryPattern.jpeg)
-
+![FactoryPattern.png](FactoryPattern.png)
 ### Réécrivez la classe MarketGardener sur base de ce Design Pattern.
